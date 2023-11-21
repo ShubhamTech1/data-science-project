@@ -1,4 +1,4 @@
-# data-science-project
+# Data-science-project
 <h1 align="center">Hi 👋, I'm Shubham bhujade</h1>
 <h3 align="center">A passionate about Data science and data analytics field</h3>
 
